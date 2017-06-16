@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/license3j-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/controlsfx-8.40.11.jar"/>
+	<classpathentry kind="lib" path="/home/nidou01/Downloads/bcpg-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="/home/nidou01/Downloads/bcprov-jdk16-140.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

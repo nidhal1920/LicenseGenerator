@@ -48,7 +48,7 @@ import javafx.util.StringConverter;
  */
 public class LicenseGenScene {
 
-	public static final String DEFAULT_AUTH_SEPARATOR = ",";
+	public static final String DEFAULT_AUTH_SEPARATOR = "|";
 	// Errors messages
 	public static final String ERROR_LOADING_MODULES = "An error occured while generating the license.";
 	// root panel
